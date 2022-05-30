@@ -30,7 +30,7 @@
 11. [Testing Overview](chapter/11_testing_overview.md)
 12. Unit Testing
 13. [Test Doubles](chapter/13_test_doubles.md)
-14. Larger Testing
+14. [Larger Testing](chapter/14_larger_testing.md)
 15. [Deprecation](chapter/15_deprecation.md)
 
 ### Tools
@@ -81,7 +81,7 @@
 | CJY    | 2 - O | 8      | 12     | 17  | 21  |
 | NHB    | 4 - O | 6  - O | 13 - O | 19  | 24  |
 | PYJ    | 1 - O | 10 - O | 15 - O | 16  | 25  |
-| KMS    | 3 - O | 7 - O  | 14     | 18  | 22  |
+| KMS    | 3 - O | 7 - O  | 14 - O | 18  | 22  |
 
 ## Reference
 
